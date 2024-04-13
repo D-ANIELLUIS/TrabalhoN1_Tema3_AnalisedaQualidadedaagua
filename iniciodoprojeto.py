@@ -19,6 +19,8 @@ perguntas = {
     "n": "A água tem que ter o pH entre 6 e 9? "
 }
 
+#link da fonte dos parametros: https://www.siam.mg.gov.br/sla/download.pdf?idNorma=2747
+
 # Armazenando as respostas
 respostas = {}
 
